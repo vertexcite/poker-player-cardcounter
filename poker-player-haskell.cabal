@@ -19,5 +19,6 @@ executable poker-player-haskell
                       text,
                       wai,
                       wai-extra,
-                      warp
+                      warp,
+                      random
 
